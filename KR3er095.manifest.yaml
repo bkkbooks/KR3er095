@@ -1,0 +1,354 @@
+canonical_identifier: bkk:krp/KR3er095/v1
+canonical_location: https://kanripo.org/bkk/KR3er095/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫學三信編
+  identifiers:
+    krp: KR3er095
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er095.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er095_000.yaml, hash: 'sha256:4aa159f824c64944f71b71cb34d45a51bf89fb80fe9bb697f94c268667e36826'}
+  - {seq: 1, filename: KR3er095_001.yaml, hash: 'sha256:c7a3be7c238aa1ed90e6a2d133b3bd7a13a7d9976da73bab0c13921b7d6cc0d0'}
+  - {seq: 2, filename: KR3er095_002.yaml, hash: 'sha256:db5f9c3413a2edfc274c75ef4bda3ee4ffd7fb34f821dc62ecf1e60c2a0e4114'}
+  - {seq: 3, filename: KR3er095_003.yaml, hash: 'sha256:d6e09c2a454b55b303520a3ca87c9c4a05fbbe5b43971a06dbe640d803b9bab7'}
+  - {seq: 0, filename: KR3er095_000.yaml, hash: 'sha256:4aa159f824c64944f71b71cb34d45a51bf89fb80fe9bb697f94c268667e36826'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er095_000.markers.yaml, hash: 'sha256:f88a16dc0712e2832606ffecfde3e16d07e30983d8254f4c9c3eae9a947ec71b'}
+  - {seq: 1, role: markers, filename: assets/KR3er095_001.markers.yaml, hash: 'sha256:759100eafcffeb0fd19220bebd2737bdb7ca7cfc2bfccc60b1db346c641e780c'}
+  - {seq: 2, role: markers, filename: assets/KR3er095_002.markers.yaml, hash: 'sha256:f4e5b499cbf25d9a1bdf8bb51a872b655412e385f44a5cf03e94e27498860102'}
+  - {seq: 3, role: markers, filename: assets/KR3er095_003.markers.yaml, hash: 'sha256:ef3e8ca8046dfddabd53e4f290b2f1e8bd82c2cfb06b6cebb9aeb83da6593baf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er095_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 433
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er095_jc_000-d3.h1s1
+    span:
+    - front
+    - 433
+    - 652
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er095_jc_000-d4.h1s1
+    span:
+    - front
+    - 652
+    - 1163
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er095_jc_000-d5.h1s1
+    span:
+    - front
+    - 1163
+    - 1469
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10004
+  label: 上卷醫學補遺
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d2
+    span:
+    - body
+    - 6
+    - 343
+  label: 引言
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d3
+    span:
+    - body
+    - 343
+    - 570
+  label: 原診
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d4
+    span:
+    - body
+    - 570
+    - 2146
+  label: 攻補論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d5
+    span:
+    - body
+    - 2146
+    - 2623
+  label: 新久內外老少標本虛實論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d6
+    span:
+    - body
+    - 2623
+    - 3920
+  label: 藥性疏辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d7
+    span:
+    - body
+    - 3920
+    - 5123
+  label: 脈義心參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d8
+    span:
+    - body
+    - 5123
+    - 5280
+  label: 寸關尺部位圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d9
+    span:
+    - body
+    - 5280
+    - 6258
+  label: 感證鉤玄論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d10
+    span:
+    - body
+    - 6258
+    - 6954
+  label: 徹微論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d11
+    span:
+    - body
+    - 6954
+    - 7467
+  label: 來復論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d12
+    span:
+    - body
+    - 7467
+    - 8086
+  label: 時疹療元
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d13
+    span:
+    - body
+    - 8086
+    - 8734
+  label: 雜言
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d14
+    span:
+    - body
+    - 8734
+    - 9156
+  label: 題石室秘錄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er095_jc_001-d6d15
+    span:
+    - body
+    - 9156
+    - 10004
+  label: 附錄西塘論治感證大法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er095_jc_002-d7.h1s1
+    span:
+    - body
+    - 0
+    - 33691
+  label: 中卷感證類要
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er095_jc_002-d7d2
+    span:
+    - body
+    - 6
+    - 3263
+  label: 傷寒六經正治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er095_jc_002-d7d3
+    span:
+    - body
+    - 3263
+    - 29027
+  label: 感證傳變病似相同治法有別
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er095_jc_002-d7d4
+    span:
+    - body
+    - 29027
+    - 32963
+  label: 四明心法附註楊云峰驗舌指南
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er095_jc_002-d7d5
+    span:
+    - body
+    - 32963
+    - 33691
+  label: 痧脹抉要說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er095_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 8127
+  label: 下卷中厥條辨
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er095_jc_003-d8d2
+    span:
+    - body
+    - 6
+    - 880
+  label: 辨非風形證歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er095_jc_003-d8d3
+    span:
+    - body
+    - 880
+    - 1938
+  label: 辨中風形證歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er095_jc_003-d8d4
+    span:
+    - body
+    - 1938
+    - 2786
+  label: 厥僕辨治歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er095_jc_003-d8d5
+    span:
+    - body
+    - 2786
+    - 7158
+  label: 明哲論選
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er095_jc_003-d8d6
+    span:
+    - body
+    - 7158
+    - 7275
+  label: 尊生秘笈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er095_jc_003-d8d7
+    span:
+    - body
+    - 7275
+    - 8127
+  label: 集方附後
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er095_jc_000-d9.h1s1
+    span:
+    - body
+    - 0
+    - 326
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:ae4c76da4a02f060f5a66772be42c289d34a76563f67e0adeb9b910ce64f6982
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
