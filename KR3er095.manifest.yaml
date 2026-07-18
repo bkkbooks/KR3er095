@@ -25,8 +25,8 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3er095_000.markers.yaml, hash: 'sha256:af4d9cd1ca4a87f185e48283779a994045ad0b86095a1fc2b1f64cd43c8ba39e'}
   - {seq: 1, role: markers, filename: assets/KR3er095_001.markers.yaml, hash: 'sha256:68c222f949f22e7f40715d1bd2d95364901ca6bbbc73b316680c1d9b0e598db3'}
-  - {seq: 2, role: markers, filename: assets/KR3er095_002.markers.yaml, hash: 'sha256:cc2d56f06d597a0c2a538e953f3db0316e908d0513a17089c232abdc813f99f8'}
-  - {seq: 3, role: markers, filename: assets/KR3er095_003.markers.yaml, hash: 'sha256:0a3fdeffc1b87afba560effff25f1ea30803f5db11d9d99473fcf820e6704ed6'}
+  - {seq: 2, role: markers, filename: assets/KR3er095_002.markers.yaml, hash: 'sha256:c780e055dfb1bf35d420c4424aae7f08df0239a745cc77670ecd005ca744ec33'}
+  - {seq: 3, role: markers, filename: assets/KR3er095_003.markers.yaml, hash: 'sha256:5f221749796a85927d4ea520046881416d45cd6fcf02bd46aa59e49ee55b795e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -348,7 +348,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:4d1c052dce14ce54c8eb9d50154789f714ff173c66590bdf0d53779d811e8c4a
+hash: sha256:52676e462f85996b2fcd496a57ab610f3d40e05318503ca995fb031c92fdaf93
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

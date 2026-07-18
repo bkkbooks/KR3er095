@@ -25,9 +25,8 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3er095_000-jc.markers.yaml, hash: 'sha256:34a8b60a8db3ac7113f2db713585ad639fb51f009e2f108a81c2d247e47cb1fc'}
   - {seq: 1, role: markers, filename: assets/KR3er095_001-jc.markers.yaml, hash: 'sha256:1822a6c0cdeef3d5e4486d240a2e696164295a82eb77bd7c423fd467c94c5381'}
-  - {seq: 2, role: markers, filename: assets/KR3er095_002-jc.markers.yaml, hash: 'sha256:839dda5bcba770f0f95e16f46e2f13354c3cfe5320655136891c6ed7e57238b0'}
-  - {seq: 3, role: markers, filename: assets/KR3er095_003-jc.markers.yaml, hash: 'sha256:059bd1b1044df3bcdbff96bc306674af7614d456d6a9c065ad7f8e11caceb5ca'}
-  - {seq: 0, role: markers, filename: assets/KR3er095_000-jc.markers.yaml, hash: 'sha256:34a8b60a8db3ac7113f2db713585ad639fb51f009e2f108a81c2d247e47cb1fc'}
+  - {seq: 2, role: markers, filename: assets/KR3er095_002-jc.markers.yaml, hash: 'sha256:bf05a22c927583263e19f1074c45df732fb1f710596802f23d9c360e96244653'}
+  - {seq: 3, role: markers, filename: assets/KR3er095_003-jc.markers.yaml, hash: 'sha256:e38bd768d172999c9fa37c84afb057ca25b6057a5ce2de6e59d3510dfc0d5728'}
 table_of_contents:
 - ref:
     seq: 0
@@ -349,4 +348,4 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:87928d8fea062c642633d70d3757d67af87b7648fb23e0420b962a6f33ad403b
+hash: sha256:f0fd6e7d7c467b9463076882e97373d2560b617f73885fa6d9a922220aca4645
